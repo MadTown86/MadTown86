@@ -12,7 +12,7 @@
 -Some HTML, CSS<br>
 -Some XML, JSON, MySQL<br>
 -Teaching msyelf Python currently with Mark Lutz 'Learning Python'<br>
-A Website I built with Wix and made the content for: <a href="https://www.worldvocab.com">www.worldvocab.com</a> check it out if you wish.
+A Website I built with Wix and made the content for: <a href="https://www.worldvocab.com">www.worldvocab.com</a>, check it out if you wish.
 </p>
 
 
