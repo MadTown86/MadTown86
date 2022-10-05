@@ -1,19 +1,5 @@
-- 👋 Hi, I’m @MadTown86
-- 👀 I’m interested in ... finance, cooking, brewing, baking, machining, web development, coding, Python, Javascript, Java, MySQL, commercial painting, carpentry
-- 🌱 I’m currently learning ...Python from Mark Lutz 'Learning Python', trying to become a full stack developer at age 35 without formal degree... :D 
-- 💞️ I’m looking to collaborate on ... all things code and development, I want all of you to give me harsh but constructive criticism to motivate and teach
-- 📫 How to reach me ... ask <b>me</b>.
-
-<p>My coding experience:<br>
--Qbasic - hello world from back in the day of the cow box computers<br>
--Intro to Java - University<br>
--.NET for business - University<br>
--Some Javascript in conjunction with Adobe Flash (RIP)<br>
--Some HTML, CSS<br>
--Some XML, JSON, MySQL<br>
--Teaching msyelf Python currently with Mark Lutz 'Learning Python'<br>
-A Website I built with Wix and made the content for: <a href="https://www.worldvocab.com">www.worldvocab.com</a>, check it out if you wish.
-</p>
+- 👋 Hi, I’m Grover.
+- 📫 <a href="https://discord.com/channels/1026211130781208687/1026211131347451947">Discord</a>
 
 
 <!---
