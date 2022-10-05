@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Grover.
-- 📫 <a href="https://discord.com/channels/1026211130781208687/1026211131347451947">Discord</a>
+- <a href="https://discord.com/channels/1026211130781208687/1026211131347451947">Discord</a>
+- <a href="https://www.twitch.tv/grovesdaman">Twitch</a>
+- <a href="https://www.linkedin.com/in/grover-donlon-8a401481/">LinkedIn</a>
 
 
 <!---
